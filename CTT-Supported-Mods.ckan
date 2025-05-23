@@ -6,7 +6,7 @@
   "abstract": "Pack d'installation one-click : CTT, ses dépendances officielles, mods QoL, visuels, planètes, UI, carrière, contrats et utilitaires essentiels.",
   "description": "Installe Community Tech Tree et tous ses patches, plus une collection de mods pour améliorer l'expérience de carrière, l'interface, le visuel, la gestion, les planètes et les contrats.",
   "license": "MIT",
-  "download": "file:///C:/Users/Maël/Downloads/CTT-Supported-Mods.ckan",
+  "download": "https://raw.githubusercontent.com/MonsieurM2/KSP-Modpack-CTT/refs/heads/main/CTT-Supported-Mods.ckan",
   "ksp_version": "1.12.5",
   "ksp_version_min": "1.12.0",
   "ksp_version_max": "1.12.5",
